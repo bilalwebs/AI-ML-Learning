@@ -1,15 +1,15 @@
-# NumPy Learning Guide
+# NumPy Learning Materials
 
-This repository contains comprehensive learning materials for NumPy, the fundamental package for scientific computing in Python.
+Comprehensive learning resources for NumPy, the fundamental package for scientific computing in Python.
+
+## Contents
+
+- `numpy_lear.ipynb`: Original NumPy tutorial notebook with basic examples
+- `numpy_learning_detailed.ipynb`: Enhanced notebook with detailed explanations and comprehensive coverage
 
 ## Overview
 
 NumPy (Numerical Python) is a library that provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. It forms the foundation for most scientific libraries in Python.
-
-## Contents
-
-- `numpy_learning_detailed.ipynb`: A comprehensive Jupyter notebook covering all essential NumPy concepts with detailed explanations and examples
-- `numpy_lear.ipynb`: Original learning notebook with basic NumPy examples
 
 ## Topics Covered
 
@@ -85,13 +85,12 @@ pip install numpy matplotlib jupyter
 
 ## Usage
 
-1. Clone this repository
-2. Navigate to the directory containing the notebooks
-3. Start Jupyter notebook server:
+1. Navigate to this Numpy directory
+2. Start Jupyter notebook server:
    ```bash
    jupyter notebook
    ```
-4. Open either `numpy_learning_detailed.ipynb` or `numpy_lear.ipynb` to begin learning
+3. Open either `numpy_lear.ipynb` or `numpy_learning_detailed.ipynb` to begin learning
 
 ## Performance Comparison
 
